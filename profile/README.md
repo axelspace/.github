@@ -9,4 +9,4 @@
 <a href="https://dev.to/axelspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devdotto.svg" alt="dev.to" height="50" width="30" /></a>
 <a href="https://zenn.dev/p/axelspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zenn.svg" alt="zenn" height="50" width="30" /></a>
 
-[Work with us!](https://axelspace.applytojob.com/apply)
+[Work with us!](https://hrmos.co/pages/axelspace/jobs)
